@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Askarov5
+- 👋 Hi, I’m Orozbek Askarov
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Nodejs, WebdriverIO, Cypress
+- 🌱 I’m working with Nodejs, WebdriverIO, Cypress
 - 💞️ I’m looking to collaborate on automation projects like WebDriverIO
 - 📫 How to reach me oroz.askarov@gmail.com
 
